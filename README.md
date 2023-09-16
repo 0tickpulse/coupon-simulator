@@ -4,7 +4,7 @@ This is a simulation of the famous [coupon collector's problem](https://en.wikip
 
 > Given a set of $n$ coupons, each with a unique number, how many coupons do you need to draw with replacement until you have drawn each coupon at least once?
 
-The answer is $nH_n$, where $H_n$ is the $n$th [harmonic number](https://en.wikipedia.org/wiki/Harmonic_number). This simulation will run the experiment for a given number of coupons and write the average number of draws to the standard output.
+The answer is $nH_n$, where $H_n$ is the $n$ th [harmonic number](https://en.wikipedia.org/wiki/Harmonic_number). This simulation will run the experiment for a given number of coupons and write the average number of draws to the standard output.
 
 ## Usage
 
